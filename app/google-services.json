@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "445459018994",
+    "firebase_url": "https://geofenceexample-f45b8.firebaseio.com",
+    "project_id": "geofenceexample-f45b8",
+    "storage_bucket": "geofenceexample-f45b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445459018994:android:1b60aa5b347da7d4",
+        "android_client_info": {
+          "package_name": "com.example.faizrehman.geofence_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445459018994-4bdp9evkdobns50kvv4nufrvf29drocc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoynjj31qV1V_jvNdmg1TgII11g1HX-1w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
